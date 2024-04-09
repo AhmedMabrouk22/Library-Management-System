@@ -2,7 +2,7 @@
 
 ## Overview
 
-This documentation provides details on the endpoints and functionalities of the Library Management System API built using Spring Boot. The API allows librarians to manage books, patrons, and borrowing records.
+This project is a RESTful API for managing books, patrons, and borrowing records in a library. It's built using Spring Boot.
 
 ### Base URL
 
